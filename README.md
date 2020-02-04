@@ -3,3 +3,13 @@ This repository is a placeholder for designs of 3D printed parts (STL files). So
 
 Link to OpenSCAD:
 https://www.openscad.org
+
+--------------- Posts for optical enclosures ---------------
+EnclosurePost_Straight_v1.scad
+EnclosurePost_Corner_v2.scad
+
+(inspired by Zach Hensel --> https://grabcad.com/zach.hensel-1/models)
+
+
+--------------- Box to store freezing tubes ---------------
+FreezeTubeStorageBox_v2.scad
